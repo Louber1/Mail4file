@@ -7,12 +7,34 @@ But please give the credits to me, thanks!
 
 HOW TO USE:
 
-1. pip install watchdog
+Linux:
+
+1. git clone https://github.com/Louber1/Mail4file.git
 
 2. cd Mail4file
 
-3. edit the file (put in your email accounts and so on)
+3. pip3 install watchdog
 
-3. python3 Emailscript.py
+4. sudo nano Emailscript.py (edit the file, put in your email accounts and so on)
 
-4. wait for a new file and receive the email!
+5. python3 Emailscript.py
+
+6. wait for a new file and receive the email!
+
+Windows:
+
+1. download the .zip file
+
+2. unzip it into your folder
+
+3. open the terminal and type: pip3 install watchdog
+
+4. go into your folder and open the Emailscript.py file
+
+5. edit it as you want (put in your email accounts, folder and so on)
+
+6. double click on the Emailscript.py and wait for a new file!
+
+
+
+
