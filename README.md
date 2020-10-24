@@ -11,7 +11,7 @@ Linux:
 
 1. git clone https://github.com/Louber1/Mail4file.git
 
-2. cd Mail4file
+2. cd Mail4file-main
 
 3. pip3 install watchdog
 
