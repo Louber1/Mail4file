@@ -5,7 +5,7 @@ It should work with every file extension (.mp4, .mp3, .pdf ...)
 You can use this script as you want, and also reuse it in your projects.
 But please give the credits to me, thanks!
 
-HOW TO USE:
+# HOW TO USE:
 
 Linux:
 
